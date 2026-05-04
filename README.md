@@ -1,1 +1,1 @@
-# SAE_data_base_little_booking
+This SQL project, titled Little-booking.sql, provides a complete relational database schema for a virtual travel agency platform. It manages everything from user profiles (clients and hosts) to detailed accommodation listings and flight schedules. The script includes comprehensive tables for reservations, pricing logic, and pre-configured queries to check room availability and average costs.
